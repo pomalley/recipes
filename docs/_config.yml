@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: pomalley recipes
-email: ooomalley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Miscellaneous recipes that I tend to reuse.
 baseurl: "/recipes" # the subpath of your site, e.g. /blog
