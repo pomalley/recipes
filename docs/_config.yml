@@ -28,7 +28,7 @@ twitter_username: pjjomalley
 github_username: pomalley
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 # Exclude from processing.
