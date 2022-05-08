@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+- [Instant Pot Pulled Pork](/recipes/pulled-pork)
