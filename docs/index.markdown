@@ -8,4 +8,3 @@ layout: home
 - [Instant Pot Pulled Pork](/recipes/pulled-pork)
 - [Instant Pot Yogurt](/recipes/yogurt)
 - [Chocolate Crinkles](/recipes/chocolate_crinkles)
-- 
