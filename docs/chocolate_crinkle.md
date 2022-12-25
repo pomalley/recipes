@@ -9,7 +9,7 @@ Source: family
 ## Ingredients
 
 - 1/2 cup oleo (butter)
-- 4 squares unsweetened chocolate
+- 4 1-oz squares unsweetened chocolate
 - 2 cups sugar
 - 4 eggs
 - 2 tsp vanilla
