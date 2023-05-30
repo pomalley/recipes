@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chocolate Crinkles"
-permalink: /chocolate_crinkles
+permalink: /chocolate-crinkles
 ---
 
 Source: family
