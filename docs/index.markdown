@@ -7,4 +7,5 @@ layout: home
 
 - [Instant Pot Pulled Pork](/recipes/pulled-pork)
 - [Instant Pot Yogurt](/recipes/yogurt)
-- [Chocolate Crinkles](/recipes/chocolate_crinkles)
+- [Chocolate Crinkles](/recipes/chocolate-crinkles)
+- [BBQ Sauce](/recipes/bbq-sauce)
